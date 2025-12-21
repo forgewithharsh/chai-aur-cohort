@@ -11,10 +11,20 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/forgewithharsh">X (Twitter)</a> •
-  <a href="https://www.linkedin.com/in/forgewithharsh/">LinkedIn</a> •
-  <a href="https://peerlist.io/forgewithharsh">Peerlist</a> •
-  <a href="mailto:guleriah59@gmail.com">Email</a>
+  <a href="https://x.com/forgewithharsh">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/forgewithharsh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:guleriah59@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://peerlist.io/forgewithharsh">
+    <img src="https://img.shields.io/badge/Peerlist-000000?style=flat&logo=peerlist&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Commits-Conventional-brightgreen" />
+  <img src="https://img.shields.io/badge/License-MIT-blue" />
 </p>
 
 ---
@@ -40,15 +50,14 @@ The focus at this stage is **mindset, consistency, documentation habits, and lea
 
 ---
 
-
 ## Documentation Structure
 
 This repository will gradually evolve and may include:
 
-- **Notes** — Conceptual understanding and learning summaries  
-- **Assignments** — Practice exercises (once the cohort begins)  
-- **Projects** — Hands-on applications of learned concepts  
-- **Blogs / Learnings** — Personal reflections and insights  
+- **Notes** — Conceptual understanding and learning summaries
+- **Assignments** — Practice exercises (once the cohort begins)
+- **Projects** — Hands-on applications of learned concepts
+- **Blogs / Learnings** — Personal reflections and insights
 
 Structure will mature as the cohort progresses.
 
@@ -66,6 +75,7 @@ Please refer to `CONTRIBUTING.md` for contribution standards and workflow.
 This repository is licensed under the **MIT License**.
 
 You are free to:
+
 - Learn from it
 - Fork it
 - Build upon it
