@@ -1,0 +1,1 @@
+This folder documents my hands-on Git and GitHub practice. 
