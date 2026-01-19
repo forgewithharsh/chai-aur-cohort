@@ -85,7 +85,17 @@ All articles are available at:
 
   <a href="https://dns-basics-explained-simply.hashnode.dev/how-dns-resolution-works?t=1768799536900">
       <p align=center>
-      <img width = "500px" alt="DNS Resolution!" src="./assets/b6-banner.png">
+      <img width = "500px" alt="DNS Resolution!" src="./assets/b6-banner.png"
+    <p>
+  </a>
+
+<br>
+
+### [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://tcp-vs-udp-vs-http-explained-simply.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http)
+
+  <a href="https://tcp-vs-udp-vs-http-explained-simply.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http">
+      <p align=center>
+      <img width = "500px" alt="TCP vs UDP vs HTTP!" src="./assets/b7-banner.png"
     <p>
   </a>
 
