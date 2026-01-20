@@ -111,6 +111,16 @@ All articles are available at:
 
 <br>
 
+### [DNS Record Types Explained](https://dns-basics-explained-for-beginners.hashnode.dev/dns-record-types-explained)
+
+  <a href="https://dns-basics-explained-for-beginners.hashnode.dev/dns-record-types-explained">
+      <p align=center>
+      <img width = "500px" alt="DNS Record Types!" src="./assets/b9-banner.png">
+    <p>
+  </a>
+
+<br>
+
 ### Contributions & Feedback
 
 Constructive feedback, suggestions, and improvements are welcome.  
