@@ -5,7 +5,7 @@
 <h1 align="center">Chai Aur Cohort – 2026 (Pre-Cohort Phase)</h1>
 
 <p align="center">
-  <strong>Status:</strong> Pre-Cohort Preparation Repository  
+  <strong>Status:</strong> Cohort Preparation Repository  
   <br />
   <strong>Cohort Start Date:</strong> January 17, 2026
 </p>
