@@ -41,9 +41,9 @@ All articles are available at:
 
 <br>
 
-### [Inside Git: How It Works and the Role of the .git Folder](https://inside-git-how-the-git-folder-works.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder)
+### [Inside Git: How It Works and the Role of the .git Folder](https://learn-web-dev-with-harsh.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder)
 
-  <a href="https://inside-git-how-the-git-folder-works.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder">
+  <a href="https://learn-web-dev-with-harsh.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder">
       <p align=center>
       <img width = "500px" alt="Inside Git!" src="./assets/b2-banner.png">
     <p>
