@@ -31,9 +31,9 @@ Each article is written after deliberate study and experimentation, with a focus
 
 All articles are available at:
 
-### [Git for Beginners — Basics and Essential Commands](https://git-basics-from-chaos-to-collaboration.hashnode.dev/understanding-git-from-collaboration-chaos-to-version-control)
+### [Git for Beginners — Basics and Essential Commands](https://learn-web-dev-with-harsh.hashnode.dev/git-for-beginners-basics-and-essential-commands)
 
-  <a href="https://git-basics-from-chaos-to-collaboration.hashnode.dev/understanding-git-from-collaboration-chaos-to-version-control">
+  <a href="https://learn-web-dev-with-harsh.hashnode.dev/git-for-beginners-basics-and-essential-commands">
       <p align=center>
       <img width = "500px" alt="Git for Beginners: Basics and Essential Commands!" src="./assets/b1-banner.png">
     <p>
@@ -51,7 +51,7 @@ All articles are available at:
 
 <br>
 
-### [Why Version Control Exists: The Pendrive Problem](https://from-pendrive-to-git.hashnode.dev/why-version-control-exists-the-pendrive-problem)
+### [Why Version Control Exists: The Pendrive Problem](https://learn-web-dev-with-harsh.hashnode.dev/why-version-control-exists-the-pendrive-problem)
 
   <a href="https://from-pendrive-to-git.hashnode.dev/why-version-control-exists-the-pendrive-problem">
       <p align=center>
