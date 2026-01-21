@@ -61,9 +61,9 @@ All articles are available at:
 
 <br>
 
-### [CURL Command-Line Tool : Explained for Beginners](https://curl-for-beginners-explained-simply.hashnode.dev/curl-command-line-tool-explained-for-beginners?t=1768718387819)
+### [CURL Command-Line Tool : Explained for Beginners](https://learn-web-dev-with-harsh.hashnode.dev/curl-command-line-tool-explained-for-beginners)
 
-  <a href="https://curl-for-beginners-explained-simply.hashnode.dev/curl-command-line-tool-explained-for-beginners?t=1768718387819">
+  <a href="https://learn-web-dev-with-harsh.hashnode.dev/curl-command-line-tool-explained-for-beginners">
       <p align=center>
       <img width = "500px" alt="CURL Command-Line Tool!" src="./assets/b4-banner.png">
     <p>
