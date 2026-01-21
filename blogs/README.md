@@ -91,9 +91,9 @@ All articles are available at:
 
 <br>
 
-### [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://tcp-vs-udp-vs-http-explained-simply.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http)
+### [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://learn-web-dev-with-harsh.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http)
 
-  <a href="https://tcp-vs-udp-vs-http-explained-simply.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http">
+  <a href="https://learn-web-dev-with-harsh.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http">
       <p align=center>
       <img width = "500px" alt="TCP vs UDP vs HTTP!" src="./assets/b7-banner.png">
     <p>
