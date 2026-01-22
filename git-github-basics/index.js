@@ -7,9 +7,20 @@ function sub(a, b){
     return a - b
 }
 
+function mul(a, b) {
+    if(a < 0 || b < 0) throw new Error("No neg allowed")
+    return a * b
+}
+
 add(2, 5)
 add(10, 23)
 add(40, 42)
 
 
 sub(10, 4)
+
+
+mul(2, 3)
+mul(20, 35)
+mul(20, 11)
+mul(20, 110)
