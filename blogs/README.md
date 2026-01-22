@@ -31,7 +31,7 @@ Each article is written after deliberate study and experimentation, with a focus
 
 All articles are available at:
 
-### [Git for Beginners: Basics and Essential Commands](https://learn-web-dev-with-harsh.hashnode.dev/git-for-beginners-basics-and-essential-commands)
+### [Git for Beginners: Basics and Essential Commands](https://learn-with-harsh.hashnode.dev/git-for-beginners-basics-and-essential-commands)
 
   <a href="https://learn-web-dev-with-harsh.hashnode.dev/git-for-beginners-basics-and-essential-commands">
       <p align=center>
@@ -41,7 +41,7 @@ All articles are available at:
 
 <br>
 
-### [Inside Git: How It Works and the Role of the .git Folder](https://learn-web-dev-with-harsh.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder)
+### [Inside Git: How It Works and the Role of the .git Folder](https://learn-with-harsh.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder)
 
   <a href="https://learn-web-dev-with-harsh.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder">
       <p align=center>
@@ -51,7 +51,7 @@ All articles are available at:
 
 <br>
 
-### [Why Version Control Exists: The Pendrive Problem](https://learn-web-dev-with-harsh.hashnode.dev/why-version-control-exists-the-pendrive-problem)
+### [Why Version Control Exists: The Pendrive Problem](https://learn-with-harsh.hashnode.dev/why-version-control-exists-the-pendrive-problem)
 
   <a href="https://learn-web-dev-with-harsh.hashnode.dev/why-version-control-exists-the-pendrive-problem">
       <p align=center>
@@ -61,7 +61,7 @@ All articles are available at:
 
 <br>
 
-### [CURL Command-Line Tool : Explained for Beginners](https://learn-web-dev-with-harsh.hashnode.dev/curl-command-line-tool-explained-for-beginners)
+### [CURL Command-Line Tool : Explained for Beginners](https://learn-with-harsh.hashnode.dev/curl-command-line-tool-explained-for-beginners)
 
   <a href="https://learn-web-dev-with-harsh.hashnode.dev/curl-command-line-tool-explained-for-beginners">
       <p align=center>
@@ -71,7 +71,7 @@ All articles are available at:
 
 <br>
 
-### [Understanding Network Devices: Modem, Router, Switch Explained Simply](https://learn-web-dev-with-harsh.hashnode.dev/understanding-network-devices-modem-router-switch-explained-simply)
+### [Understanding Network Devices: Modem, Router, Switch Explained Simply](https://learn-with-harsh.hashnode.dev/understanding-network-devices-modem-router-switch-explained-simply)
 
   <a href="https://learn-web-dev-with-harsh.hashnode.dev/understanding-network-devices-modem-router-switch-explained-simply">
       <p align=center>
@@ -81,7 +81,7 @@ All articles are available at:
 
 <br>
 
-### [How DNS Resolution Works](https://learn-web-dev-with-harsh.hashnode.dev/how-dns-resolution-works)
+### [How DNS Resolution Works](https://learn-with-harsh.hashnode.dev/how-dns-resolution-works)
 
   <a href="https://learn-web-dev-with-harsh.hashnode.dev/how-dns-resolution-works">
       <p align=center>
@@ -91,7 +91,7 @@ All articles are available at:
 
 <br>
 
-### [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://learn-web-dev-with-harsh.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http)
+### [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://learn-with-harsh.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http)
 
   <a href="https://learn-web-dev-with-harsh.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http">
       <p align=center>
@@ -101,7 +101,7 @@ All articles are available at:
 
 <br>
 
-### [TCP Working: 3-Way Handshake & Reliable Communication](https://learn-web-dev-with-harsh.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication)
+### [TCP Working: 3-Way Handshake & Reliable Communication](https://learn-with-harsh.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication)
 
   <a href="https://learn-web-dev-with-harsh.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication">
       <p align=center>
@@ -111,7 +111,7 @@ All articles are available at:
 
 <br>
 
-### [DNS Record Types Explained](https://learn-web-dev-with-harsh.hashnode.dev/dns-record-types-explained)
+### [DNS Record Types Explained](https://learn-with-harsh.hashnode.dev/dns-record-types-explained)
 
   <a href="https://learn-web-dev-with-harsh.hashnode.dev/dns-record-types-explained">
       <p align=center>
