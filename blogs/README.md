@@ -14,32 +14,32 @@ These blogs focus on **core web concepts, networking fundamentals, and essential
 
 ---
 
-## 📌 Assignment Mapping (Web Dev Cohort 2026)
+## Assignment Mapping (Web Dev Cohort 2026)
 
-### 🔹 Git
+### 1. Git
 - Git for Beginners: Basics and Essential Commands  
 - Inside Git: How It Works and the Role of the `.git` Folder  
 - Why Version Control Exists: The Pendrive Problem  
 
-### 🔹 Networking
+### 2. Networking
 - CURL Command-Line Tool: Explained for Beginners  
 - Understanding Network Devices: Modem, Router, Switch Explained Simply  
 - TCP vs UDP: When to Use What, and How TCP Relates to HTTP  
 - TCP Working: 3-Way Handshake & Reliable Communication  
 
-### 🔹 DNS
+### 3. DNS
 - How DNS Resolution Works  
 - DNS Record Types Explained  
 - How to Connect a Custom Domain to Hashnode  
 
-### 🔹 HTML / CSS
+### 4. HTML / CSS
 - Emmet in HTML for Beginners  
 - Understanding HTML Tags and Elements  
 - CSS Selectors 101: Targeting Elements with Precision  
 
 ---
 
-## ✍️ Writing Philosophy
+## Writing Philosophy
 
 ### What This Collection Represents
 - A learning log backed by hands-on exploration  
@@ -51,13 +51,13 @@ These blogs focus on **core web concepts, networking fundamentals, and essential
 Each article is written after deliberate study and experimentation, with a focus on:
 - Simplicity over jargon  
 - Accuracy over abstraction  
-- Fundamentals over frameworks  
+- Fundamentals over frameworks 
 
 ---
 
-## 📚 Read the Blogs
+## Read the Blogs
 
-### Git
+### &star; Git
 
 ### [Git for Beginners: Basics and Essential Commands](https://learn-with-harsh.hashnode.dev/git-for-beginners-basics-and-essential-commands)
 <a href="https://learn-with-harsh.hashnode.dev/git-for-beginners-basics-and-essential-commands">
@@ -86,7 +86,7 @@ Each article is written after deliberate study and experimentation, with a focus
 
 ---
 
-### Networking
+### &star; Networking
 
 ### [CURL Command-Line Tool : Explained for Beginners](https://learn-with-harsh.hashnode.dev/curl-command-line-tool-explained-for-beginners)
 <a href="https://learn-with-harsh.hashnode.dev/curl-command-line-tool-explained-for-beginners">
@@ -124,7 +124,7 @@ Each article is written after deliberate study and experimentation, with a focus
 
 ---
 
-### DNS
+### &star; DNS
 
 ### [How DNS Resolution Works](https://learn-with-harsh.hashnode.dev/how-dns-resolution-works)
 <a href="https://learn-with-harsh.hashnode.dev/how-dns-resolution-works">
@@ -153,7 +153,7 @@ Each article is written after deliberate study and experimentation, with a focus
 
 ---
 
-### HTML / CSS
+### &star; HTML / CSS
 
 ### [Emmet in HTML for Beginners](https://learn-with-harsh.hashnode.dev/emmet-in-html-for-beginners-write-faster-code-with-simple-shortcuts)
 <a href="https://learn-with-harsh.hashnode.dev/emmet-in-html-for-beginners-write-faster-code-with-simple-shortcuts">
@@ -182,6 +182,6 @@ Each article is written after deliberate study and experimentation, with a focus
 
 ---
 
-### 🤝 Contributions & Feedback
+### Contributions & Feedback
 Constructive feedback, suggestions, and improvements are welcome.  
 See [CONTRIBUTING.md](../CONTRIBUTING.md) for ways to get started.
