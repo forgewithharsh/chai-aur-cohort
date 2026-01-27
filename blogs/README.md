@@ -151,6 +151,16 @@ All articles are available at:
 
 <br>
 
+### [CSS Selectors 101: Targeting Elements with Precision](https://learn-with-harsh.hashnode.dev/css-selectors-101-targeting-elements-with-precision)
+
+  <a href="https://learn-with-harsh.hashnode.dev/css-selectors-101-targeting-elements-with-precision">
+      <p align=center>
+      <img width = "500px" alt="Connect a Custom Domain to Hashnode!" src="./assets/b13-banner.png">
+    <p>
+  </a>
+
+<br>
+
 ### Contributions & Feedback
 
 Constructive feedback, suggestions, and improvements are welcome.  
