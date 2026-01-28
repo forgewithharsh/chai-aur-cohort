@@ -180,6 +180,15 @@ Each article is written after deliberate study and experimentation, with a focus
   </p>
 </a>
 
+<br>
+
+### [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://learn-with-harsh.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals)
+<a href="https://learn-with-harsh.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals">
+  <p align="center">
+    <img width="500px" src="./assets/b14-banner.png" />
+  </p>
+</a>
+
 ---
 
 ### Contributions & Feedback
