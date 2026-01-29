@@ -37,6 +37,7 @@ These blogs focus on **core web concepts, networking fundamentals, and essential
 - Understanding HTML Tags and Elements  
 - CSS Selectors 101: Targeting Elements with Precision
 - How a Browser Works: A Beginner-Friendly Guide to Browser Internals
+- Semantic HTML: Writing Webpages That Make Sense
 
 ---
 
@@ -187,6 +188,15 @@ Each article is written after deliberate study and experimentation, with a focus
 <a href="https://learn-with-harsh.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals">
   <p align="center">
     <img width="500px" src="./assets/b14-banner.png" />
+  </p>
+</a>
+
+<br>
+
+### [Semantic HTML: Writing Webpages That Make Sense](https://learn-with-harsh.hashnode.dev/semantic-html-writing-webpages-that-make-sense)
+<a href="https://learn-with-harsh.hashnode.dev/semantic-html-writing-webpages-that-make-sense">
+  <p align="center">
+    <img width="500px" src="./assets/b15-banner.png" />
   </p>
 </a>
 
