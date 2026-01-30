@@ -38,6 +38,7 @@ These blogs focus on **core web concepts, networking fundamentals, and essential
 - CSS Selectors 101: Targeting Elements with Precision
 - How a Browser Works: A Beginner-Friendly Guide to Browser Internals
 - Semantic HTML: Writing Webpages That Make Sense
+- CSS Box Model and Units When CSS Started Making Sense
 
 ---
 
@@ -197,6 +198,15 @@ Each article is written after deliberate study and experimentation, with a focus
 <a href="https://learn-with-harsh.hashnode.dev/semantic-html-writing-webpages-that-make-sense">
   <p align="center">
     <img width="500px" src="./assets/b15-banner.png" />
+  </p>
+</a>
+
+<br>
+
+### [CSS Box Model and Units When CSS Started Making Sense](https://learn-with-harsh.hashnode.dev/css-box-model-and-units-when-css-started-making-sense)
+<a href="https://learn-with-harsh.hashnode.dev/css-box-model-and-units-when-css-started-making-sense">
+  <p align="center">
+    <img width="500px" src="./assets/b16-banner.png" />
   </p>
 </a>
 
