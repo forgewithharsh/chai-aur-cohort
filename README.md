@@ -95,3 +95,7 @@ You are free to:
 <p align="center">
   Maintained by <strong>Harsh Guleria</strong>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=forgewithharsh&label=Profile%20Views&color=C47A2C&style=flat" />
+</p>
