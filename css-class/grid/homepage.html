@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    body {
+      background-color: #131313;
+      color: #fff;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    div{
+        border: 2px solid red;
+    }
+
+    #parent{
+        display: grid;
+        gap: 10px;
+        grid-template-areas: 
+        'header header header'
+        'main main side'
+        'aujla aujla aujla'
+        ;
+    }
+
+    .nav{
+        grid-area: header;
+    }
+
+    .main{
+        grid-area: main;
+    }
+
+    .ads{
+        grid-area: side;
+    }
+
+    .footer{
+        grid-area: aujla;
+    }
+  </style>
+  <body id="parent">
+    <div class="nav">NavBar</div>
+    <div class="blog">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores
+      explicabo quod cumque excepturi, numquam rerum error sequi labore
+      temporibus tenetur iste voluptatum dicta debitis dolorum, reprehenderit
+      ducimus recusandae asperiores iusto! Non deleniti quas ratione deserunt
+      praesentium laboriosam exercitationem possimus pariatur animi, amet a unde
+      nesciunt incidunt odit velit? Aliquid, error similique laboriosam odio
+      aspernatur sint nemo ipsum repellat commodi quia!
+    </div>
+    <div class="ads">This is for ADS</div>
+    <div class="footer">Copyright 2026</div>
+  </body>
+</html>
