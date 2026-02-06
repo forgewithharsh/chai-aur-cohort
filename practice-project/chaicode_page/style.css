@@ -2,20 +2,22 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
   background-image: url("./assets/background.svg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;  
+  background-position: center;
+  background-attachment: fixed;
 }
 
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2rem 16rem;
+  padding: 2rem 24rem;
 }
 
 .chaicode {
@@ -29,7 +31,7 @@ header {
 }
 
 .main {
-  padding: 2rem 16rem;
+  padding: 2rem 24rem;
 }
 
 button {
@@ -47,8 +49,8 @@ button {
 }
 
 .btn2 {
-  background-color: oklch(0.11 0 0);
-  color: #fff;
+    background-color: oklch(0.11 0 0);
+    color: #fff;
   border-top-left-radius: 10px;
   border-bottom-right-radius: 10px;
   border: 1px solid #bbb;
@@ -74,19 +76,19 @@ button + button {
 }
 
 .main-right img {
-  width: 26vw;
-  height: 26vw;
+  width: 22vw;
+  height: 22vw;
 }
 
 .main-left h2 {
-  font-size: 4rem;
+  font-size: 3.5rem;
   color: #fff;
   margin-bottom: 2.5rem;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .main-left p {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   color: oklch(70.8% 0 0);
   margin-bottom: 2.5rem;
 }
@@ -96,7 +98,8 @@ button + button {
 }
 
 h2 {
-  font-size: 36px;
+  font-size: 26px;
+  font-weight: 400;
   margin-bottom: 12px;
   color: #fff;
   margin-top: 5rem;
@@ -114,7 +117,7 @@ section div {
   overflow-x: auto;
 }
 
-.cohort-article {
+.cohort-article { 
   background: #161616;
   border-radius: 20px;
   padding: 20px;
@@ -123,15 +126,10 @@ section div {
 }
 
 article h3 {
-  margin: 20px 80px 8px 90px;
-  color: #fff;
-  font-size: 1.3rem;
-}
-
-.full-stack {
-  margin: 20px 100px 8px 100px;
-  color: #fff;
-  font-size: 1.3rem;
+  margin: 20px 0px 0px 10px;
+  color: oklch(95.4% 0.038 75.164);
+  font-size: 1.8rem;
+  text-align: center;
 }
 
 article p {
@@ -147,8 +145,8 @@ article p {
 .arrow {
   position: absolute;
   bottom: 50px;
-  right: 24px;
-  width: 20rem;
+  right: 28px;
+  width: 14rem;
 }
 
 article img {
@@ -182,14 +180,15 @@ section > p {
 
 .trending-h3 {
   margin: 16px 0 8px;
-  color: #fff;
+  color: oklch(87.2% .01 258.338);
   font-size: 1.3rem;
+  font-weight: 400;
   text-align: center;
 }
 
 .footer {
   background: #000;
-  padding: 80px 8%;
+  padding: 80px 24rem;
   border-top: 1px solid #111;
 }
 
@@ -239,4 +238,128 @@ section > p {
 
 .footer-col p:hover {
   color: rgb(251 146 60);
+}
+
+@media (max-width: 900px) {
+  header {
+    padding: 1.5rem 3rem;
+  }
+
+  .main {
+    padding: 1.5rem 3rem;
+  }
+
+  .main-container {
+    flex-direction: column;
+    text-align: center;
+    gap: 3rem;
+  }
+
+  .main-left h2 {
+    font-size: 2.8rem;
+  }
+
+  .main-right img {
+    width: 240px;
+    height: 240px;
+  }
+
+  section div {
+    gap: 16px;
+  }
+
+  .footer {
+    padding: 60px 3rem;
+  }
+
+  .footer-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 50px;
+  }
+
+  .footer-left {
+    max-width: 100%;
+  }
+
+  .footer-links {
+    gap: 50px;
+  }
+}
+
+@media (max-width: 600px) {
+  header {
+    padding: 1.2rem 1.5rem;
+  }
+
+  .chaicode {
+    width: 7rem;
+  }
+
+  .main {
+    padding: 1.2rem 1.5rem;
+  }
+
+  .main-left h2 {
+    font-size: 2.2rem;
+  }
+
+  .main-left p {
+    font-size: 1rem;
+  }
+
+  button {
+    width: 100%;
+    margin-bottom: 12px;
+  }
+
+  button + button {
+    margin-left: 0;
+  }
+
+  section div {
+    overflow-x: auto;
+    padding-bottom: 10px;
+  }
+
+  .cohort-article,
+  .trending-article,
+  section article {
+    min-width: 240px;
+  }
+
+  .footer {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 60px 16px;
+    box-sizing: border-box;
+  }
+
+  .footer-container {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+  }
+
+  .footer-left {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .footer-links {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  .footer-col {
+    width: 100%;
+  }
 }
