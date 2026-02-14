@@ -50,6 +50,76 @@ const isAllowedToVote = (age) => age >= 18;
 const isUserAllowedToOpenBankAccount = (age, minBalance) =>
   age >= 18 && minBalance >= 5000;
 
-console.log(isUserAllowedToOpenBankAccount(23, 6000));
+// console.log(isUserAllowedToOpenBankAccount(23, 6000));
 
+// Data Structures
+// Memory mai data ko ek particular structure mei store karna
+// Subjectify naa kre toh kitne bdiya hoga
 
+const fruits = ["apple", "cheeku", true, "aadu", 1, "santra", "🥭", "kela"];
+
+fruits.push("Kiwi");
+// console.log(fruits.length);
+// console.log(fruits[4]);
+// console.log(fruits.includes("tarbooj"));
+const firstElement = fruits.slice(2, 5);
+// console.log(fruits);
+// console.log({ firstElement });
+fruits.unshift("1", "2", "3");
+// console.log(fruits);
+// console.log(fruits.pop());
+// console.log(fruits.indexOf("harsh"));
+
+// High Order Function - A function that takes another function parameter.
+
+function meraPyaraFuntion(udharKaFunction) {
+  return udharKaFunction() + 40;
+}
+
+function cartoon2() {
+  return 10;
+}
+
+// console.log(meraPyaraFuntion(cartoon2));
+
+for (let i = 0; i < fruits.length; i++) {
+  // console.log(fruits[i])
+}
+
+// function printKrdo(element){
+//   console.log(element)
+// }
+
+// fruits.forEach(printKrdo)
+
+// fruits.forEach((element) => console.log(`--> ${element}`));
+
+// forEach((xyz) => console.log(`--> ${xyz}`));
+
+function forEach(bataoKyaKarnaHai) {
+  for (let i = 0; i < fruits.length; i++) {
+    bataoKyaKarnaHai(fruits[i]);
+  }
+}
+
+const nums = [1, 2, 3, 4, 5, 6];
+
+const result = map((e) => e * 3);
+
+function map(fn) {
+  const result = [];
+
+  for (let i = 0; i < nums.length; i++) {
+    const currentElement = nums[i];
+    const num = fn(currentElement);
+    result.push(num);
+  }
+
+  return result;
+}
+
+// for(let i = 0; i < nums.length; i ++){
+//   result.push(nums[i] * 2)
+// }
+
+console.log(result);
