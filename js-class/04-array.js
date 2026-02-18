@@ -14,10 +14,12 @@ console.log(trainCode);
 const tempTrain = ["A", "B", "C", "D", "E"];
 tempTrain.length = 3;
 console.log(tempTrain);
-
 tempTrain.length = 5;
 console.log(tempTrain);
 
 console.log(typeof []);
 console.log(Array.isArray([]));
 console.log(Array.isArray("Ravi"));
+
+// Mutating methods: push, pop, shift, unshift, splice
+// Non Mutating: concat, slice, flat, flatmap [1, 2, 3, [5, 6]]
