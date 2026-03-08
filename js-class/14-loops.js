@@ -87,3 +87,15 @@ for (let i = 1; i <= 100; i++) {
     break;
   }
 }
+
+// Rock paper Scissor Logic
+
+function rockPaperScissor(user, computer) {
+  if (user === "paper" && computer === "rock") return "user";
+  if (user === "scissor" && computer === "paper") return "user";
+  if (user === "rock" && computer === "scissor") return "user";
+
+  return "computer";
+}
+
+console.log(rockPaperScissor("paper", "rock"));
