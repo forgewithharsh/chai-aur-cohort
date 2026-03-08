@@ -1,0 +1,20 @@
+{
+  "name": "mynode",
+  "version": "1.0.0",
+  "description": "a project to learn express and nodejs",
+  "keywords": [
+    "chaicode",
+    "masterji"
+  ],
+  "license": "ISC",
+  "author": "Harsh Guleria",
+  "type": "module",
+  "main": "01-node-foundation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
