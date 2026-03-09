@@ -10,5 +10,8 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "types": "./app.d.ts"
+  "types": "./app.d.ts",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
 }
