@@ -37,7 +37,6 @@ Thumbs.db
 .LSOverride
 
 # NPM package lock
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
