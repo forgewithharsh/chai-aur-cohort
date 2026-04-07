@@ -20,3 +20,14 @@ CREATE TABLE students (
   enrollment_date DATE DEFAULT CURRENT_DATE
 );
 
+WITH student_marks AS (
+    SELECT 'Harsh' AS name, 80 AS marks
+    UNION ALL
+    SELECT 'Harry', 70
+    UNION ALL
+    SELECT 'Gullu', 90
+)
+SELECT name, marks
+FROM student_marks
+WHERE marks > 75;
+
