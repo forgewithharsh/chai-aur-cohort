@@ -1,33 +1,23 @@
-CREATE TABLE students (
-  student_id SERIAL PRIMARY KEY,
-  first_name VARCHAR(50) NOT NULL,
-  last_name VARCHAR(50),
-
-  email VARCHAR(322) UNIQUE NOT NULL,
-  phone_number CHAR(10) UNIQUE,
-  country_code VARCHAR(4),
-
-  age INT CHECK (age > 10),
-
-  current_status VARCHAR(20) DEFAULT 'active' CHECK (current_status IN ('active', 'graduated', 'dropped-out')),
-
-  masterji_handle VARCHAR(50) UNIQUE,
-
-  has_joined_masterji BOOLEAN DEFAULT FALSE,
-
-  current_score INT DEFAULT 0 CHECK (current_score >= 0 AND current_score <= 100)
-
-  enrollment_date DATE DEFAULT CURRENT_DATE
+CREATE TABLE users(
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(100) NOT NULL,
+  email VARCHAR(100) UNIQUE NOT NULL,
+  gender VARCHAR(10),
+  date_of_birth DATE,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-WITH student_marks AS (
-    SELECT 'Harsh' AS name, 80 AS marks
-    UNION ALL
-    SELECT 'Harry', 70
-    UNION ALL
-    SELECT 'Gullu', 90
-)
-SELECT name, marks
-FROM student_marks
-WHERE marks > 75;
 
+-- RENAME TABLE users to programmers;
+-- RENAME TABLE programmers to users;
+
+-- ALTER TABLE users ADD COLUMN is_active BOOLEAN DEFAULT true;
+
+-- ALTER TABLE users DROP COLUMN is_active;
+
+-- ALTER TABLE users MODIFY COLUMN name VARCHAR(150);
+
+INSERT INTO users (name, email, gender, date_of_birth) VALUES
+('Harsh', 'harsh@gmail.com', 'Male','2006-06-29');
+
+SELECT * FROM users;
