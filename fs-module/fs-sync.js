@@ -16,4 +16,13 @@ fs.appendFileSync("test.txt", "\nHello from append")
 fs.mkdirSync("myFolder/innerFolder", {recursive: true})
 
 // Unlink
-fs.unlinkSync("test.txt")
+// fs.unlinkSync("test.txt")
+
+// Rename
+fs.renameSync("test.txt", "text.txt")
+
+// Copy -> Structured Clone
+fs.cpSync("text.txt", "finalTest.txt")
+
+// rm
+fs.rmSync("myFolder", {recursive: true})
